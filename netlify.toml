@@ -1,0 +1,7 @@
+[[edge_functions]]
+  function = "index"
+  path = "/*"
+  [build]
+
+  # Default build command.
+  command = "echo Building Functions"
